@@ -85,7 +85,7 @@ You can add custom properties to enable configuring the color of the circle, and
                  }
              }
          }
-     },
+     }
     ```
 
     The JSON fragment describes a group named circle, which consists of two options named circleColor and circleThickness.
